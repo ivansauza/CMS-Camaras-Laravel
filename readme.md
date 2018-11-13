@@ -12,7 +12,7 @@ A si mismo incluye dos dashboard uno para administradores y otro para usuarios e
 
 ## ER
 
-<img src="https://www.dropbox.com/s/ncro6kvrdb2v16k/Diagrama%20ER.jpg?raw=1">
+<img src="https://www.dropbox.com/s/0mmpsu4mg2to12t/Diagrama%20entidad%20relacion.png?raw=1">
 
 ## Frameworks y Librerias usadas
 
